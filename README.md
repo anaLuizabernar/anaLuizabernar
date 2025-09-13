@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/lucas-pitasantos)  
+- [LinkedIn](https://www.linkedin.com/in/ana-luiza-bernardo-pinto-24)  
 - [E-mail](mailto:analuizabernardo24@outlook.com)  
 
 ---
