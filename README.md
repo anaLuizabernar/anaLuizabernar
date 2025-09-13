@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Ana Luiza!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Focada em **JavaScript | TypeScript | Node.js | Front-End**
+⭐ Focada em **JavaScript | TypeScript | Node.js | Front-End**
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/ana-luiza-bernardo-pinto)  
+- [LinkedIn](https://www.linkedin.com/in/ana-luiza-b-24a506289)  
 - [E-mail](mailto:analuizabernardo24@outlook.com)  
 
 ---
