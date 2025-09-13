@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Ana Luiza!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-⭐ Focada em **JavaScript | TypeScript | Node.js | Front-End**
+👩🏻‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+👩🏻‍💻 Focada em **HTML | CSS | React | JavaScript | TypeScript | Node.js | Front-End**
 
 ---
 
 ## 🌱 Atualmente estudando
-- 📘 Desenvolvimento **Front-End** com JavaScript e TypeScript  
-- ⚡ **Node.js** e **Express** para criação de APIs  
-- 🗄️ Banco de dados **MongoDB** e **PostgreSQL**  
+- 🎓 Desenvolvimento **Front-End** com JavaScript e TypeScript  
+- 🪢 **Node.js** e **Express** para criação de APIs  
+- 🤖 Banco de dados **MongoDB** e **PostgreSQL**  
 - 🌐 **HTML e CSS** para front-end  
 
 ---
