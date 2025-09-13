@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/ana-luiza-bernardo-pinto-24)  
+- [LinkedIn](https://www.linkedin.com/in/ana-luiza-bernardo-pinto)  
 - [E-mail](mailto:analuizabernardo24@outlook.com)  
 
 ---
